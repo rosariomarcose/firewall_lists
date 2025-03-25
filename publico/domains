@@ -1,0 +1,47 @@
+# Default
+wikipedia.org   # Conhecimento geral
+microsoft.com   # Atualizações e serviços
+cloudflare.com  # DNS e serviços de rede
+mozilla.org     # Navegador Firefox
+pool.ntp.org    # Atualizar data e hora
+debian.org      # Atualizações do debian
+
+# Emails
+localweb.com.br
+mail.google.com
+login.live.com
+
+# Google
+khmdb0.google.com
+khmdb0.googleapis.com
+khmdb1.google.com
+khmdb1.googleapis.com
+google.com      # Busca
+
+# Para atualziações
+windowsupdate.microsoft.com
+update.microsoft.com
+download.windowsupdate.com
+download.microsoft.com
+wustat.windows.com
+ntservicepack.microsoft.com
+go.microsoft.com
+
+
+# Microsoft
+m365.cloud.microsoft             # URL do Microsoft 365
+m365.cloud.microsoft/chat        # URL do Microsoft 365 Copilot Chat
+excel.cloud.microsoft            # URL do Microsoft Excel
+powerpoint.cloud.microsoft       # URL do Microsoft PowerPoint
+cloud.microsoft                  # Domínio unificado do Microsoft 365
+static.microsoft                 # Domínio unificado do Microsoft 365
+usercontent.microsoft            # Domínio unificado do Microsoft 365
+yourcompany.onmicrosoft.com      # Domínio padrão quando não se conecta um domínio ao Microsoft 365
+azure-api.net                    # Subdomínio para o Gerenciamento de API do Azure 
+biztalk.windows.net              # Subdomínio para os Serviços BizTalk do Azure 
+blob.core.windows.net            # Subdomínio para o Armazenamento de Blobs do Azure 
+cloudapp.net                     # Subdomínio para os Serviços de Nuvem do Azure e Máquinas Virtuais do Azure
+answers.microsoft.com
+support.microsoft.com            # Suporte microsoft
+
+
